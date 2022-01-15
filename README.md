@@ -1,7 +1,10 @@
 ### Hi there 👋
 💬 Ask me about Frontend Engineering as I have 6 years of work experience in it.
+
 🌱 I’m currently learning everything about data
+
 😄 Pronouns: She/Her
+
 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gobhargavi)
 
 <!--
