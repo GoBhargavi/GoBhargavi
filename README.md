@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 💬 Ask me about Frontend Engineering as I have 6 years of work experience in it.
 
 🌱 I’m currently learning everything about data
